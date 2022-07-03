@@ -1,0 +1,5 @@
+As informações do banco foram tiradas do site
+https://www.4devs.com.br/
+
+Projeto feito por meio de vídeo aulas do canal do YouTube
+https://www.youtube.com/c/MotoCode
